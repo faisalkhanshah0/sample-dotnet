@@ -1,0 +1,11 @@
+/home/shah/Downloads/dotnet/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/shah/Downloads/dotnet/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/shah/Downloads/dotnet/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/shah/Downloads/dotnet/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/shah/Downloads/dotnet/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/shah/Downloads/dotnet/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/shah/Downloads/dotnet/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/shah/Downloads/dotnet/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/shah/Downloads/dotnet/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/shah/Downloads/dotnet/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/shah/Downloads/dotnet/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
